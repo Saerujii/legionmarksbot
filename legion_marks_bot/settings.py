@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-wu!8d5=v6p)o15zrj7+=j8)82i9ul#9*zg*v7n@g#ab1bj*-w*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://legion-marks-bot.onrender.com"]
+ALLOWED_HOSTS = ["legion-marks-bot.onrender.com"]
 
 
 # Application definition
